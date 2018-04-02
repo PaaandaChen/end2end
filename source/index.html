@@ -6,12 +6,13 @@ layout: default
   <div class="hero-inner">
     <div class="container">
       <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
-      <h1>end2end <small>v2.0</small></h1>
-      <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em>.</h3>
+      <h1>NAUGHTY CHEN</h1>
+      <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <strong itemprop="jobTitle">{{ site.author.job }}</strong> at <a href="http://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php"><em itemprop="jobLocation">{{ site.author.location }}</em></a>.</h3>
       <h3>{{ site.author.bio }}</h3>
+      <h3><i><u>Love caffeine and alcohol.</u></i></h3>
       <a href="{{ '/about' | prepend: site.baseurl }}" class="button button-ghost" title="about">about</a>
-      <a href="{{ '/blog' | prepend: site.baseurl }}" class="button button-ghost" title="blog">blog</a>
-      <a href="{{ site.repo }}/archive/master.zip" class="button button-ghost" title="Download">Download</a>
+      <a href="{{ '/blog' | prepend: site.baseurl }}" class="button button-ghost" title="blog">projects</a>
+<!--       <a href="{{ site.repo }}/archive/master.zip" class="button button-ghost" title="Download">Download</a> -->
       {% include social.html %}
     </div>
   </div>

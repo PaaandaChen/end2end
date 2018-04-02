@@ -4,7 +4,7 @@ markdown: kramdown
 highlighter: pygments
 plugins: [jekyll-paginate]
 
-paginate: 3
+paginate: 5
 paginate_path: "/blog/page/:num/"
 comments: true
 
@@ -15,37 +15,37 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
+title: NAUGHTY CHEN
+description: "A jekyll website for Zhuohan Chen"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+url: https://paaandachen.github.io
+# baseurl: ""
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+google_analytics: UA-72359418-1
+repo: https://github.com/PaaandaChen/PaaandaChen.github.io
+disqus_shortname: "Zhuohan Chen"
+disqus_site_shortname: "naughtychen-cc"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
-  thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  name: Zhuohan Chen
+  job: master student
+  location: CMLab
+  bio: "Interested in computer graphics, computer vision, VR/AR, light field, etc."
+  thumb: /images/author_120x120.jpg
+  email: pandachen0611@gmail.com
+  url: https://paaandachen.github.io
+  github: https://github.com/paaandachen
+  facebook: https://www.facebook.com/chen.zhuohan
+  instagram: https://www.instagram.com/thegreatgreatpanda/
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
+  # - slug: icons
+  #   title: Icons
   - slug: blog
-    title: Blog
+    title: Projects
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
