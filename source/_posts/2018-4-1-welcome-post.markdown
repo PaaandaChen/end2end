@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome"
 date:   2018-4-1 13:46:52
 comments: true
-<!-- image: https://jekyllrb.com/img/octojekyll.png -->
+image: /images/panda.jpg
 categories: none
 ---
 Welcome my friend.

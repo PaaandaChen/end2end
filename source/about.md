@@ -13,10 +13,10 @@ My research interests include Computer Graphics, Physical Based Rendering, VR/AR
 &nbsp;
 # Education
 ---
-**National Taiwan University**, `2016.09-present`, `GPA 4.3`  
+**National Taiwan University**, `2016.09-present`, `GPA 4.28/4.3`  
 M.S. of Computer Science and Information Engineering.  
 
-**Huazhong University of Science and Technology**, `2011.09-2015.06`, `GPA 3.3`  
+**Huazhong University of Science and Technology**, `2011.09-2015.06`, `GPA 79/100`  
 B.S. of Computer Science, Internet of Things.  
 
 &nbsp;
