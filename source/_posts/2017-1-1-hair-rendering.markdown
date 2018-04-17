@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Water Rendering"
-date:   2017-1-1 13:46:52
+title:  "Hair Rendering based on Pbrt v2"
+date:   2017-1-2 13:46:52
 comments: true
 image: /images/curly_yellow.png
 categories: computer graphics, hair rendering, physical based rendering
